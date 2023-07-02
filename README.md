@@ -11,14 +11,14 @@ In the last 5 years or also, she mainly focuses on micro-service tech stack. Bes
 For now, she works as a solo software engineer aiming to provide her services worldwide. Please feel free to contact her. JanessaTech can help your achievement and success at all effort
 
 **JanessaTech's tech stack:**
-**Language:** Java, Go, Solidity, Groovy, bash, scala, (basic knowledge about Javascript, html, css)
-**Framework:** Spring/Springboot/SpringCloud/micro-services, Gin, fx, Restful, GraphQL, Spring Security, JWT, OAuth 2.0, Swagger
-**Middleware:** Rabbitmq, Nomad, Consul , Redis
-**CICD:** AWS, gitlab pipeline, GitHub action, Docker image
-**Database:** Mysql,Flyway, JPA, Hibernate, gorm , 
-**Unit Test:** Mockito, spock, Junit, Git
-**Process Management:** Agile, Jira, github, git
-**Others:** Linux, data structure, design pattern, Api design, DB schema design, system design
+- **Language:** Java, Go, Solidity, Groovy, bash, scala, (basic knowledge about Javascript, html, css)
+- **Framework:** Spring/Springboot/SpringCloud/micro-services, Gin, fx, Restful, GraphQL, Spring Security, JWT, OAuth 2.0, Swagger
+- **Middleware:** Rabbitmq, Nomad, Consul , Redis
+- **CICD:** AWS, gitlab pipeline, GitHub action, Docker image
+- **Database:** Mysql,Flyway, JPA, Hibernate, gorm , 
+- **Unit Test:** Mockito, spock, Junit, Git
+- **Process Management:** Agile, Jira, github, git
+- **Others:** Linux, data structure, design pattern, Api design, DB schema design, system design
 
 # Contacts: 
 - gmail : lvlajzhao1983@gmail.com
