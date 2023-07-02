@@ -8,7 +8,7 @@ JanessaTech is a fast learner and an expert at building new production/features 
 
 In the last 5 years or also, she mainly focuses on micro-service tech stack. Besides that, she, with a great passion about blockchain, started [an open-source project](https://github.com/hi-supergirl/mytwitter) and made [a comprehensive explanation about yellow paper](https://drive.google.com/file/d/1pUqBUUE4f-biyxiKqXWDjjLmK28HQGo8/view?usp=drive_link) which aims to help people worldwide to easily get through yellow paper. Besides writing codes, JanessaTech is comfortable with doing research, reading academic paper and productionizing academic paper via codes. 
 
-For more information about **JanessaTech**, check [the CV in pdf]([https://drive.google.com/file/d/1GM67xKCGuKR6bY73h9xwyaRjFOko4qpc/view?usp=drive_link](https://drive.google.com/file/d/1l_5brieVsYajU-PI0iych_EKZjtZFTyi/view?usp=drive_link)) or browse the profile on [LinkedIn](https://www.linkedin.com/in/juan-zhao/).
+For more information about **JanessaTech**, check [the CV in pdf](https://drive.google.com/file/d/1l_5brieVsYajU-PI0iych_EKZjtZFTyi/view?usp=drive_link) or browse the profile on [LinkedIn](https://www.linkedin.com/in/juan-zhao/).
 
 For now, she works as a solo software engineer aiming to provide her services worldwide. 
 Feel free to contact her. JanessaTech can help your achievement and success at all effort
