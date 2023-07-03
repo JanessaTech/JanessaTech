@@ -2,7 +2,7 @@
 
 Hi, entrepreneur,
 
-**JanessaTech**(Juan Zhao in Chinese name) has over 10 year software engineering experience, who ever worked in ZTE, IBM, Huawei, Alstela(a global distributed remote-first company) as a backend software engineer.
+**JanessaTech**(Juan Zhao in Chinese name) has over 10-year software engineering experience, who ever worked in ZTE, IBM, Huawei, Alstela(a global distributed remote-first company) as a backend software engineer.
 
 JanessaTech is a fast learner and an expert at building new production/features from concepts to delivery
 
