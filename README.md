@@ -15,13 +15,13 @@ Feel free to contact her. JanessaTech can help your achievement and success at a
 
 **JanessaTech's tech stack:**
 - **Language:** Java, Go, Solidity, Groovy, bash, scala, (basic knowledge about Javascript, html, css)
-- **Framework:** Spring/Springboot/SpringCloud/micro-services, Gin, fx, Restful, GraphQL, Spring Security, JWT, OAuth 2.0, Swagger
-- **Middleware:** Rabbitmq, Nomad, Consul , Redis
-- **CICD:** AWS, gitlab pipeline, GitHub action, Docker image
+- **Framework:** Spring/Springboot/SpringCloud/micro-services, Gin, FX, Restful, GraphQL, Spring Security, JWT, OAuth 2.0,SSO, Swagger
+- **Middleware:** Truffle, Ganache,Rabbitmq, Nomad, Consul, Redis
+- **CICD:** AWS, gitlab pipeline, GitHub action, Docker
 - **Database:** Mysql,Flyway, JPA, Hibernate, gorm , 
 - **Unit Test:** Mockito, spock, Junit, Git
 - **Process Management:** Agile, Jira, github, git
-- **Others:** Linux, data structure, design pattern, Api design, DB schema design, system design
+- **Others:** Linux, Data Structure, Design Pattern, API design, DB schema design, system design
 
 # Contacts: 
 - gmail : lvlajzhao1983@gmail.com
