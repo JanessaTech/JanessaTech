@@ -37,8 +37,8 @@ JanessaTech is the person you are looking for.
 Let's talk more about your requirements. Where could JanessaTech help you out?
 
 # Contacts: 
-- gmail : janessatech.web3@gmail.com
-- skype id: lvlajzhao1983@gmail.com
-- linkedin: https://www.linkedin.com/in/juan-zhao/
-- medium: https://medium.com/@JanessaTech
+- Gmail : janessatech.web3@gmail.com
+- Skype id: lvlajzhao1983@gmail.com
+- Linkedin: https://www.linkedin.com/in/juan-zhao/
+- Medium: https://medium.com/@JanessaTech
 
