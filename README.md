@@ -20,7 +20,7 @@ For fun, here are the list of side projects developed by JanessaTech from scratc
 3. [A distributed twitter(restful+solidity+web3+golang)](https://github.com/JanessaTech/mytwitter)
 4. [A fake youtube(react+MUI+Javascript)](https://github.com/JanessaTech/mui-youtube)
 
-Here is [a comprehensive explanation](https://drive.google.com/file/d/1pUqBUUE4f-biyxiKqXWDjjLmK28HQGo8/view?usp=drive_link) about Ethereum yellow paper written by JanessTech
+Here is [a comprehensive explanation](https://drive.google.com/file/d/1pUqBUUE4f-biyxiKqXWDjjLmK28HQGo8/view?usp=drive_link) about Ethereum yellow paper written by JanessaTech 
 
 Here is the list tech stacks JanessaTech has mastered:
 - **MERN**(MongoBD, express.js, react, node, UT(Mocha, Jest etc))
