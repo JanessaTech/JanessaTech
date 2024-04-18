@@ -3,7 +3,7 @@
 Hi, entrepreneurs,
 
 **JanessaTech**(Juan Zhao in Chinese name) is **a fullstack web3 engineer**, **focusing on software development in web3 area from concepts to delivery**. She has **Master Degree** in CS, graduated from Xian JiaoTong Unniversity(One of top 10 Unniversity in China) 
-with more than **10-year** experiences as software developer ever working in IBM, shopee, huawei etc
+with more than **10-year** experiences as software developer ever working in IBM, huawei etc
 
 Her skills touched different areas ranging from **backend(6 years)**, **frontend(2 years)**,**AI(1 year)**, **web3(1 year)** to **CICD(2 years)** which make her qualified to build up a fullstack SASS(Software as a Service) **in a robust and consistent way**.
 
