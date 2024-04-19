@@ -23,8 +23,10 @@ For fun, here are the list of side projects developed by JanessaTech from scratc
 Here is [a comprehensive explanation](https://drive.google.com/file/d/1pUqBUUE4f-biyxiKqXWDjjLmK28HQGo8/view?usp=drive_link) about Ethereum yellow paper written by JanessaTech 
 
 Here is the list tech stacks JanessaTech has mastered:
+- **Web3**(Ethereum,solidity, ethers, ERC721, ERC1115,ERC20, IPFS, Metamask, hardhat, remix, ganache,truffle etc)
 - **MERN**(MongoDB, express.js, react, node, UT(Mocha, Jest etc))
-- **Spring/Spring Cloud**(micro-service, mysql, Java, UT etc)
+- **Frontend**(material-ui,html,css,Javascript)
+- **Spring/Spring Cloud**(micro-service, mysql, Java, Jpa, UT etc)
 - **Middleware** - Redis, MQ(rabbit mq) etc
 - **CICD** - Linux, AWS, gitlab/github pipeline
 - **Git, Jira, Agile etc**
