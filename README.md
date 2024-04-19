@@ -25,7 +25,7 @@ Here is the list pf tech stacks JanessaTech has mastered:
 - **Frontend**(material-ui,html,css,Javascript)
 - **Spring/Spring Cloud**(micro-service, mysql, Java, Jpa, UT etc)
 - **Middleware/security** - Redis, MQ(rabbit mq), Cloudflare,SSO, auth2.0,JWT etc
-- **CICD** - Linux, AWS, gitlab/github pipeline
+- **CICD** - Linux, AWS, gitlab/github pipeline, docker
 - **Git, Jira, Agile etc**
 
 **JanessaTech is a life-long leaner, anything new she is both confident and able to play and go in a both fast and professional way**. For more information about **JanessaTech**, check [the CV in pdf](https://drive.google.com/file/d/1l_5brieVsYajU-PI0iych_EKZjtZFTyi/view?usp=drive_link) or browse the profile on [LinkedIn](https://www.linkedin.com/in/juan-zhao/).
