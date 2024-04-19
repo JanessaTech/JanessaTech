@@ -2,7 +2,7 @@
 
 Hi, entrepreneurs,
 
-**JanessaTech**(Juan Zhao in Chinese name) isn't not just **a fullstack blockchain engineer** with **Master Degree** in CS, **focusing on SaSS consulting in blockchain space powered by the end-to-end development process**. 
+**JanessaTech**(Juan Zhao in Chinese name) isn't just **a fullstack blockchain engineer** with **Master Degree** in CS, **focusing on SaSS consulting in blockchain space powered by the end-to-end development process**. 
 
 She aims to transform web3 from a wild-world into the foundation of our digital world. Her determination partly comes from the respect for equality as human-being, partly comes from the participation in the development of different software solutions ranging from **blockchain**, **backend**, **frontend**, **AI**, **CICD** **in a robust and consistent way with big success** since 2010. 
 
@@ -24,7 +24,7 @@ And Janessa is also fluent both in English and Mandarin and has years of remote-
 
 Here is the list of tech stacks JanessaTech has experienced/mastered **in the recent 5 years**:
 - **Web3**(Ethereum,solidity, openzeppelin, ethers, NFT, ERC721, ERC1115,ERC20, IPFS, Metamask, siwe, hardhat, remix, ganache,truffle etc)
-- **MERN**(MongoDB, express.js, react, node, UT(Mocha, Jest etc))
+- **MERN**(MongoDB, express.js, react, node, UT(Mocha, Jest, chai etc))
 - **Frontend**(material-ui,html,css,Javascript)
 - **Spring/Spring Cloud**(micro-service, mysql, Java, Jpa, UT etc)
 - **Middleware/security** - Redis, MQ(rabbit mq), Cloudflare,SSO, auth2.0,JWT etc
