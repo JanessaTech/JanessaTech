@@ -2,12 +2,9 @@
 
 Hi, entrepreneurs,
 
-**JanessaTech**(Juan Zhao in Chinese name) is **a fullstack web3 engineer**, **focusing on software development in web3 area from concepts to delivery**. She has **Master Degree** in CS, graduated from Xian JiaoTong Unniversity(One of top 10 Unniversity in China) 
-with more than **10-year** experiences as software developer ever working in IBM, huawei etc
+**JanessaTech**(Juan Zhao in Chinese name) isn't not just **a fullstack blockchain engineer** with **Master Degree** in CS, **focusing on SaSS consulting in blockchain space from concepts&theory to delivery**. 
 
-Her skills touched different areas ranging from **backend(6 years)**, **frontend(2 years)**,**AI(1 year)**, **web3(1 year)** to **CICD(2 years)** which make her qualified to build up a fullstack SASS(Software as a Service) **in a robust and consistent way**.
-
-1 year ago, she decided to march into web3 because she believes that web3 will definitly become the foundation of our digital world. She is determined to contribute her effort in making the dream into reality.
+She aims to transform web3 from a wild-world into the foundation of our digital world. Her determination partly comes from the respect for equality as human-being, partly comes from the years of software development since 2010 and participation in the development of different software solutions ranging from **blockchain**, **backend**, **frontend**, **AI**, **CICD** **in a robust and consistent way with big success**. 
 
 With this dream, she built up a series of web3 fullstack projects **from scratch**(some for fun, some for employers). The latest full-stack web3 project built for Lian company(a startup) is a platform where users can sell/buy second-hand items. Check links below for more about the second-hand project: 
 - **Intro**: https://www.youtube.com/watch?v=UCe7ilfKP8o
