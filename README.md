@@ -26,7 +26,7 @@ Here is the list of tech stacks JanessaTech has experienced/mastered **in the re
 - **Web3**(Ethereum,solidity, openzeppelin, ethers, NFT, ERC721, ERC1115,ERC20, IPFS, Metamask, siwe, hardhat, remix, ganache,truffle etc)
 - **MERN**(MongoDB, express.js, react, node, UT(Mocha, Jest, chai etc))
 - **Frontend**(material-ui,html,css,Javascript)
-- **Spring/Spring Cloud**(micro-service, mysql, Java, Jpa, UT etc)
+- **Springboot/Spring Cloud**(micro-service, mysql, Java, Jpa, UT etc)
 - **Middleware/security** - Redis, MQ(rabbit mq), Cloudflare,SSO, auth2.0,JWT etc
 - **CICD** - Linux, AWS, gitlab/github pipeline, docker
 - **Git, Jira, Agile etc**
