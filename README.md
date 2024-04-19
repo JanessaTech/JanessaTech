@@ -24,12 +24,12 @@ Besides writing codes, Janessa is comfortable working with **academic paper**. H
 And Janessa is also **fluent both in English and Mandarin** and has years of remote-working experience with **great autonomy**
 
 Here is the list of tech stacks JanessaTech has experienced/mastered **in the recent 5 years**:
-- **Web3**(Ethereum,solidity, openzeppelin, ethers, NFT, ERC721, ERC1115,ERC20, IPFS, Metamask, siwe, hardhat, remix, ganache,truffle etc)
-- **MERN**(MongoDB, express.js, react, node, UT(Mocha, Jest, chai etc))
-- **Frontend**(material-ui,html,css,Javascript)
-- **Springboot/Spring Cloud**(micro-service, mysql, Java, Jpa, UT etc)
-- **Middleware/security** - Redis, MQ(rabbit mq), Cloudflare,SSO, auth2.0,JWT etc
-- **CICD** - Linux, AWS, gitlab/github pipeline, docker
+- **Web3**(Ethereum,Solidity, openzeppelin, Ethers, NFT, ERC721, ERC1115,ERC20, IPFS, Metamask, siwe, Hardhat, Remix, Ganache,Truffle etc)
+- **MERN**(MongoDB, Express.js, React, Node, UT(Mocha, Jest, chai etc))
+- **Frontend**(Material-ui(MUI),HTML,CSS,Javascript)
+- **Springboot/Spring Cloud**(Micro-service, MYSQL, Java, JPA, UT etc)
+- **Middleware/security** - Redis, MQ(rabbit mq), Cloudflare,SSO, Auth2.0,JWT etc
+- **CICD** - Linux, AWS, gitlab/github pipeline, Docker
 - **Git, Jira, Agile etc**
 
 **JanessaTech is a life-long leaner**. For more information about **JanessaTech**, check [the CV in pdf](https://drive.google.com/file/d/1iDvRRONGv5gyvztbdGt0vkKHYLK6bBw1/view?usp=drive_link) or browse the profile on [LinkedIn](https://www.linkedin.com/in/juan-zhao/).
