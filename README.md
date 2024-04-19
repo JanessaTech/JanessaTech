@@ -18,7 +18,7 @@ For fun, here are the list of side projects developed by JanessaTech **from scra
 4. [A clone of youtube(react+MUI+Javascript)](https://github.com/JanessaTech/mui-youtube)
 5. [A clone again of youtube(pure css&html&javascript only)](https://github.com/JanessaTech/exercises/tree/master/css%2Bdiv/dummy-youtube)
 
-Besides writing codes, Janessa is comfortable working with academic paper. Here is [a comprehensive explanation](https://drive.google.com/file/d/1pUqBUUE4f-biyxiKqXWDjjLmK28HQGo8/view?usp=drive_link) about Ethereum yellow paper written by JanessaTech within 2 weeks from no idea of it to having a deep understanding of each math equation in the paper. Janessa is a big fan of math and physics
+Besides writing codes, Janessa is comfortable working with **academic paper**. Here is [a comprehensive explanation](https://drive.google.com/file/d/1pUqBUUE4f-biyxiKqXWDjjLmK28HQGo8/view?usp=drive_link) about Ethereum yellow paper written by JanessaTech **within 2 weeks** from no idea of it to having a deep understanding of each math equation in the paper. **Janessa is a big fan of math and physics**
 
 And Janessa is also fluent both in English and Mandarin and has years of remote-working experience with great autonomy
 
