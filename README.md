@@ -11,7 +11,7 @@ With this dream, she built up a series of web3 fullstack projects **from scratch
 - **Front-end**: https://github.com/JanessaTech/best-second-hand-market
 - **Backend**: https://github.com/JanessaTech/best-second-hand-market-backend
 
-For fun, here are the list of side projects developed by JanessaTech from scratch:
+For fun, here are the list of side projects developed by JanessaTech **from scratch**:
 1. [A web3 voting project(react+MUI+web3+solidity)](https://github.com/JanessaTech/exercises/tree/master/blockchain/my-dpps-home/my-voting)
 2. [A todo list project(react+MUI+node+web3+solidity)](https://github.com/JanessaTech/exercises/tree/master/blockchain/my-dpps-home/todo)
 3. [A distributed twitter(restful+solidity+web3+golang)](https://github.com/JanessaTech/mytwitter)
@@ -22,7 +22,7 @@ Here is [a comprehensive explanation](https://drive.google.com/file/d/1pUqBUUE4f
 
 And Janessa is also fluent both in English and Mandarin and has years of remote-working experience with great autonomy
 
-Here is the list of tech stacks JanessaTech has experienced/mastered in recent 5 years:
+Here is the list of tech stacks JanessaTech has experienced/mastered **in recent 5 years**:
 - **Web3**(Ethereum,solidity, openzeppelin, ethers, NFT, ERC721, ERC1115,ERC20, IPFS, Metamask, siwe, hardhat, remix, ganache,truffle etc)
 - **MERN**(MongoDB, express.js, react, node, UT(Mocha, Jest etc))
 - **Frontend**(material-ui,html,css,Javascript)
