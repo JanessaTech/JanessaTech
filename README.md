@@ -19,9 +19,9 @@ For fun, here are the list of side projects developed by JanessaTech from scratc
 
 Here is [a comprehensive explanation](https://drive.google.com/file/d/1pUqBUUE4f-biyxiKqXWDjjLmK28HQGo8/view?usp=drive_link) about Ethereum yellow paper written by JanessaTech 
 
-And Janessa is also fluent both in English and Mandarin and years of remote-working experience with great autonomy
+And Janessa is also fluent both in English and Mandarin and has years of remote-working experience with great autonomy
 
-Here is the list pf tech stacks JanessaTech has mastered:
+Here is the list of tech stacks JanessaTech has experienced/mastered in recent 5 years:
 - **Web3**(Ethereum,solidity, openzeppelin, ethers, NFT, ERC721, ERC1115,ERC20, IPFS, Metamask, siwe, hardhat, remix, ganache,truffle etc)
 - **MERN**(MongoDB, express.js, react, node, UT(Mocha, Jest etc))
 - **Frontend**(material-ui,html,css,Javascript)
