@@ -4,7 +4,7 @@ Hi, entrepreneurs,
 
 **JanessaTech**(Juan Zhao in Chinese name) isn't not just **a fullstack blockchain engineer** with **Master Degree** in CS, **focusing on SaSS consulting in blockchain space from concepts&theory to delivery**. 
 
-She aims to transform web3 from a wild-world into the foundation of our digital world. Her determination partly comes from the respect for equality as human-being, partly comes from participations in the development of different software solutions ranging from **blockchain**, **backend**, **frontend**, **AI**, **CICD** **in a robust and consistent way with big success** since 2010. 
+She aims to transform web3 from a wild-world into the foundation of our digital world. Her determination partly comes from the respect for equality as human-being, partly comes from the participation in the development of different software solutions ranging from **blockchain**, **backend**, **frontend**, **AI**, **CICD** **in a robust and consistent way with big success** since 2010. 
 
 With this dream, she built up a series of web3 fullstack projects **from scratch**(some for fun, some for employers). The latest full-stack web3 project built for Lian company(a startup) is a platform where users can sell/buy second-hand items. Check links below for more about the second-hand project: 
 - **Intro**: https://www.youtube.com/watch?v=UCe7ilfKP8o
@@ -18,6 +18,8 @@ For fun, here are the list of side projects developed by JanessaTech from scratc
 4. [A fake youtube(react+MUI+Javascript)](https://github.com/JanessaTech/mui-youtube)
 
 Here is [a comprehensive explanation](https://drive.google.com/file/d/1pUqBUUE4f-biyxiKqXWDjjLmK28HQGo8/view?usp=drive_link) about Ethereum yellow paper written by JanessaTech 
+
+And Janessa is also fluent both in English and Mandarin and years of remote-working experience with great autonomy
 
 Here is the list pf tech stacks JanessaTech has mastered:
 - **Web3**(Ethereum,solidity, openzeppelin, ethers, NFT, ERC721, ERC1115,ERC20, IPFS, Metamask, siwe, hardhat, remix, ganache,truffle etc)
