@@ -22,7 +22,7 @@ Here is [a comprehensive explanation](https://drive.google.com/file/d/1pUqBUUE4f
 
 And Janessa is also fluent both in English and Mandarin and has years of remote-working experience with great autonomy
 
-Here is the list of tech stacks JanessaTech has experienced/mastered **in recent 5 years**:
+Here is the list of tech stacks JanessaTech has experienced/mastered **in the recent 5 years**:
 - **Web3**(Ethereum,solidity, openzeppelin, ethers, NFT, ERC721, ERC1115,ERC20, IPFS, Metamask, siwe, hardhat, remix, ganache,truffle etc)
 - **MERN**(MongoDB, express.js, react, node, UT(Mocha, Jest etc))
 - **Frontend**(material-ui,html,css,Javascript)
