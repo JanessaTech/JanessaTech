@@ -21,7 +21,7 @@ For fun, here are the list of side projects developed by JanessaTech **from scra
 
 Besides writing codes, Janessa is comfortable working with **academic paper**. Here is [a comprehensive explanation](https://drive.google.com/file/d/1pUqBUUE4f-biyxiKqXWDjjLmK28HQGo8/view?usp=drive_link) about Ethereum yellow paper written by JanessaTech **within 2 weeks** from no idea of it to having a deep understanding of each math equation in the paper. **Janessa is a big fan of math and physics**
 
-And Janessa is also fluent both in English and Mandarin and has years of remote-working experience with great autonomy
+And Janessa is also **fluent both in English and Mandarin** and has years of remote-working experience with **great autonomy**
 
 Here is the list of tech stacks JanessaTech has experienced/mastered **in the recent 5 years**:
 - **Web3**(Ethereum,solidity, openzeppelin, ethers, NFT, ERC721, ERC1115,ERC20, IPFS, Metamask, siwe, hardhat, remix, ganache,truffle etc)
