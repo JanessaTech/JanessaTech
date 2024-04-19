@@ -11,7 +11,7 @@ With this dream, she built up a series of web3 fullstack projects **from scratch
 - **Front-end**: https://github.com/JanessaTech/best-second-hand-market
 - **Backend**: https://github.com/JanessaTech/best-second-hand-market-backend
 
-For fun, here are the list of side projects developed by JanessaTech **from scratch**:
+For fun, here are the list of side projects developed by JanessaTech **from scratch** in 2023-2024:
 1. [A web3 voting project(react+MUI+web3+solidity)](https://github.com/JanessaTech/exercises/tree/master/blockchain/my-dpps-home/my-voting)
 2. [A todo list project(react+MUI+node+web3+solidity)](https://github.com/JanessaTech/exercises/tree/master/blockchain/my-dpps-home/todo)
 3. [A distributed twitter(restful+solidity+web3+golang)](https://github.com/JanessaTech/mytwitter)
