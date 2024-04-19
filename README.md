@@ -19,7 +19,7 @@ For fun, here are the list of side projects developed by JanessaTech **from scra
 5. [A clone again of youtube(react+MUI+Javascript)](https://github.com/JanessaTech/mui-youtube)
 
 
-Besides writing codes, Janessa is comfortable working with **academic paper**. Here is [a comprehensive explanation](https://drive.google.com/file/d/1yPYRnPVqRHf_nIvBF4pxkVD4l-_LGg9z/view?usp=drive_link) about Ethereum yellow paper written by JanessaTech **within 2 weeks** from no idea of it to having a deep understanding of each math equation in the paper. **Janessa is a big fan of math and physics**
+Besides writing codes, Janessa is comfortable working with **academic paper**. Here is [a comprehensive explanation](https://drive.google.com/file/d/1pUqBUUE4f-biyxiKqXWDjjLmK28HQGo8/view?usp=drive_link) about Ethereum yellow paper written by JanessaTech **within 2 weeks** from no idea of it to having a deep understanding of each math equation in the paper. **Janessa is a big fan of math and physics**
 
 And Janessa is also fluent both in English and Mandarin and has years of remote-working experience with great autonomy
 
@@ -32,7 +32,7 @@ Here is the list of tech stacks JanessaTech has experienced/mastered **in the re
 - **CICD** - Linux, AWS, gitlab/github pipeline, docker
 - **Git, Jira, Agile etc**
 
-**JanessaTech is a life-long leaner**. For more information about **JanessaTech**, check [the CV in pdf](https://drive.google.com/file/d/1dXiH0tF7xe-whxq8GB65vcs_7ljrnO5O/view?usp=drive_link) or browse the profile on [LinkedIn](https://www.linkedin.com/in/juan-zhao/).
+**JanessaTech is a life-long leaner**. For more information about **JanessaTech**, check [the CV in pdf]([)](https://drive.google.com/file/d/1iDvRRONGv5gyvztbdGt0vkKHYLK6bBw1/view?usp=drive_link) or browse the profile on [LinkedIn](https://www.linkedin.com/in/juan-zhao/).
 
 If you need someone who can handle features from ideation to creatio, who is comfortable working in uncertainty and ambiguity and has **the ability to make the uncertainty and ambiguity into a clear solution and touchable product**
 JanessaTech is the person you are looking for.
