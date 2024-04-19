@@ -15,8 +15,9 @@ For fun, here are the list of side projects developed by JanessaTech **from scra
 1. [A web3 voting project(react+MUI+web3+solidity)](https://github.com/JanessaTech/exercises/tree/master/blockchain/my-dpps-home/my-voting)
 2. [A todo list project(react+MUI+node+web3+solidity)](https://github.com/JanessaTech/exercises/tree/master/blockchain/my-dpps-home/todo)
 3. [A distributed twitter(restful+solidity+web3+golang)](https://github.com/JanessaTech/mytwitter)
-4. [A clone of youtube(react+MUI+Javascript)](https://github.com/JanessaTech/mui-youtube)
-5. [A clone again of youtube(pure css&html&javascript only)](https://github.com/JanessaTech/exercises/tree/master/css%2Bdiv/dummy-youtube)
+4. [A clone of youtube(pure css&html&javascript only)](https://github.com/JanessaTech/exercises/tree/master/css%2Bdiv/dummy-youtube)
+5. [A clone again of youtube(react+MUI+Javascript)](https://github.com/JanessaTech/mui-youtube)
+
 
 Besides writing codes, Janessa is comfortable working with **academic paper**. Here is [a comprehensive explanation](https://drive.google.com/file/d/1pUqBUUE4f-biyxiKqXWDjjLmK28HQGo8/view?usp=drive_link) about Ethereum yellow paper written by JanessaTech **within 2 weeks** from no idea of it to having a deep understanding of each math equation in the paper. **Janessa is a big fan of math and physics**
 
