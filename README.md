@@ -34,7 +34,7 @@ Here is the list of tech stacks JanessaTech has experienced/mastered **in the re
 
 **JanessaTech is a life-long leaner**. For more information about **JanessaTech**, check [the CV in pdf](https://drive.google.com/file/d/1iDvRRONGv5gyvztbdGt0vkKHYLK6bBw1/view?usp=drive_link) or browse the profile on [LinkedIn](https://www.linkedin.com/in/juan-zhao/).
 
-If you need someone who can handle features from ideation to creatio, who is comfortable working in uncertainty and ambiguity and has **the ability to make the uncertainty and ambiguity into a clear solution and touchable product**
+If you need someone who can handle features from ideation to creation, who is comfortable working in uncertainty and ambiguity and has **the ability to make the uncertainty and ambiguity into a clear solution and touchable product**
 JanessaTech is the person you are looking for.
 
 Let's talk more about your requirements. Where could JanessaTech help you out?
