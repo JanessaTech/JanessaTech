@@ -26,8 +26,8 @@ And Janessa is also **fluent both in English and Mandarin** and has years of rem
 Here is the list of tech stacks JanessaTech has experienced/mastered **in the recent 5 years**:
 - **Web3**(Ethereum,Solidity, openzeppelin, Ethers, NFT, ERC721, ERC1115,ERC20, IPFS, Metamask, siwe, Hardhat, Remix, Ganache,Truffle etc)
 - **MERN**(MongoDB, Express.js, React, Node, UT(Mocha, Jest, chai etc))
-- **Frontend**(Material-ui(MUI),HTML,CSS,Javascript)
-- **Java**(Springboot/Spring Cloud,Micro-service, MYSQL, JPA, UT etc)
+- **Frontend**(Material-ui(MUI),HTML,CSS,Javascript, Axure)
+- **Java**(Springboot/Spring Cloud,Micro-service, REST, MYSQL, JPA, UT etc)
 - **Middleware/security** - Redis, MQ(rabbit mq), Cloudflare,SSO, Auth2.0,JWT etc
 - **CICD** - Linux, AWS, gitlab/github pipeline, Docker
 - **Git, Jira, Agile etc**
