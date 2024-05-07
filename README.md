@@ -32,7 +32,7 @@ Here is the list of tech stacks JanessaTech has experienced/mastered **in the re
 - **CICD** - Linux, AWS, gitlab/github pipeline, Docker
 - **Git, Jira, Agile etc**
 
-**JanessaTech is a life-long leaner**. For more information about **JanessaTech**, check [the CV in pdf](https://drive.google.com/file/d/1je8CP0t7iR4iRSbCYEAirRck6XKR_cKl/view?usp=drive_link) or browse the profile on [LinkedIn](https://www.linkedin.com/in/janessatech/).
+**JanessaTech is a life-long leaner**. For more information about **JanessaTech**, check [the CV in pdf](https://drive.google.com/file/d/1dCLIh4u9X4Q-t8_1VZkyFchbXzzDGxdz/view?usp=drive_link) or browse the profile on [LinkedIn](https://www.linkedin.com/in/janessatech/).
 
 If you need someone who can handle features from ideation to creation, who is comfortable working in uncertainty and ambiguity and has **the ability to make the uncertainty and ambiguity into a clear solution and touchable product**
 JanessaTech is the person you are looking for.
