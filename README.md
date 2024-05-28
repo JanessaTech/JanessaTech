@@ -2,7 +2,7 @@
 
 Hi, entrepreneurs,
 
-**JanessaTech**(Juan Zhao in Chinese name) is **a fullstack blockchain engineer** with **Master Degree** in CS from Xi'an JiaoTong University, **focusing on SaaS consulting powered by the end-to-end development process**. 
+**JanessaTech**(Juan Zhao in Chinese name) is **a fullstack blockchain engineer** with **Master Degree** in CS from Xi'an JiaoTong University, **focusing on SaaS consulting in blockchain space powered by the end-to-end development process**. 
 
 She aims to transform web3 from a wild-world into the foundation of our digital world. Her determination partly comes from the respect for equality as human-being, partly comes from the participation in the development of different software solutions ranging from **blockchain**, **backend**, **frontend**, **AI**, **CICD** **in a robust and consistent way with big success** since 2010. 
 
