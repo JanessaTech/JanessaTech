@@ -2,9 +2,11 @@
 
 Hi, entrepreneurs,
 
-**JanessaTech**(Juan Zhao in Chinese name) is **a fullstack blockchain engineer** with **Master Degree** in CS, **focusing on SaaS consulting powered by the end-to-end development process**. 
+**JanessaTech**(Juan Zhao in Chinese name) is **a fullstack blockchain engineer** with **Master Degree** in CS from Xi'an JiaoTong University, **focusing on SaaS consulting powered by the end-to-end development process**. 
 
-She participated in the development of different software solutions ranging from **blockchain**, **backend**, **frontend**, **AI**, **CICD** **in a robust and consistent way with big success** since 2010. 
+She aims to transform web3 from a wild-world into the foundation of our digital world. Her determination partly comes from the respect for equality as human-being, partly comes from the participation in the development of different software solutions ranging from **blockchain**, **backend**, **frontend**, **AI**, **CICD** **in a robust and consistent way with big success** since 2010. 
+
+With this dream, she built up a series of web3 fullstack projects **from scratch**(some for fun, some for employers).
 
 The latest full-stack project built for Lian company(a startup) is a NFT marketplace where users can sell/buy second-hand items using ERC20 as payment solution. Check links below for more about the project: 
 - **Intro**: https://www.youtube.com/watch?v=UCe7ilfKP8o
