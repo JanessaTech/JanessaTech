@@ -27,7 +27,7 @@ Hi, entrepreneurs,
 
 ## Contacts: 
 - Gmail : janessatech.web3@gmail.com
-- Skype id: lvlajzhao1983@gmail.com
-- Linkedin: https://www.linkedin.com/in/juan-zhao/
+- Team id: lvlajzhao1983@gmail.com
+- Linkedin: https://www.linkedin.com/in/janessatech/
 - Medium: https://medium.com/@JanessaTech
 
