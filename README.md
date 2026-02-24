@@ -16,8 +16,8 @@ Hi, entrepreneurs,
 
 ## Past Experience
 - Backend Distributed Systems at IBM, Huawei (cloud computing platforms, anomaly detection)
-- Fullstack & Microservice & DevOps & Remote Collaboration at Alstela: built CI/CD from scratch (AWS/Docker/GitHub Actions), Cloudflare Zero Trust integration
-- Full-Stack Development at ZTE, Alstela, and as an independent contractor
+- Microservice & DevOps & Remote Collaboration at Alstela: built CI/CD from scratch (AWS/Docker/GitHub Actions), Cloudflare Zero Trust integration
+- Full-Stack Development at ZTE, Alstela as an independent developer
 
 ## Tech Stack
 **Blockchain/Web3**:Solidity, Hardhat, Foundr ·  Tenderly ·  The Graph ·  Wagmi ·  Viem ·  AMM ·  Uniswap V3 ·  ERC20/721/1155 ·  Smart Contract Security  
