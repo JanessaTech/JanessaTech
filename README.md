@@ -1,6 +1,6 @@
 # JanessaTech
 
-Hi, entrepreneurs,
+Hi, entrepreneurs, 
 **JanessaTech**(Juan Zhao in Chinese name) is a Full-Stack Engineer with 10+ years of experience, specializing in Web3 for the past three years. She is passionate about building decentralized applications from the ground up — from smart contract integration to frontend optimization.
 
 ## What she is Working On
