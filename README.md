@@ -16,7 +16,7 @@ Hi, entrepreneurs,
 
 ## Past Experience
 - Backend Distributed Systems at IBM, Huawei (cloud computing platforms, anomaly detection)
-- DevOps & Remote Collaboration at Alstela: built CI/CD from scratch (AWS/Docker/GitHub Actions), Cloudflare Zero Trust integration
+- Fullstack & Microservice & DevOps & Remote Collaboration at Alstela: built CI/CD from scratch (AWS/Docker/GitHub Actions), Cloudflare Zero Trust integration
 - Full-Stack Development at ZTE, Alstela, and as an independent contractor
 
 ## Tech Stack
