@@ -2,7 +2,7 @@
 
 Hi, entrepreneurs, 
 
-**JanessaTech**(Juan Zhao in Chinese name) is **a Senior Full-Stack Engineer** with 10+ years of experience, specializing in **Web3 & DeFi** for the past three years. She is **an expert in building decentralized applications from 0→1** — from smart contract integration to frontend optimization.
+**JanessaTech**(Juan Zhao in Chinese name) is **a Senior Full-Stack Engineer** with 10+ years of experience, specializing in **Web3 & DeFi** for the past three years. She is has **deep expertise in building decentralized applications from 0→1** — from smart contract integration to frontend optimization.
 
 ## What she is working on
 **Uniswap V3 DEX (Core Project):** Independently integrated Swap, Liquidity Management, and Fee Collection. Designed a backend data middleware layer using The Graph polling + WebSocket push to solve frontend real-time data bottlenecks. Deployed and running stably on testnet.
