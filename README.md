@@ -20,11 +20,11 @@ Hi, entrepreneurs,
 - Full-Stack Development at ZTE, Alstela as an independent developer
 
 ## Tech Stack
-**Blockchain/Web3**:Solidity, Hardhat, Foundry ·  Tenderly ·  The Graph ·  Wagmi ·  Viem ·  AMM ·  Uniswap V3 ·  ERC20/721/1155 ·  Smart Contract Security  
+**Blockchain/Web3**: AMM · Uniswap V3 · ERC20/721/1155 · Smart Contract Security . Solidity . Hardhat · The Graph · Wagmi · Viem . Foundry · Tenderly 
 **Frontend**: Next.js · TypeScript · React · Tailwind CSS · Shadcn · RainbowKit · Ethers.js  
-**Backend/Distributed Systems**:Node.js ·  Express · MongoDB · MySQL · RESTful API ·  WebSocket ·  Redi ·  RabbitMQ ·  Microservices Architecture ·  Distributed System Design
-**DevOps & Tools**: Git ·  Docker ·  AWS, CI/CD ·  Agile ·  Jira ·  Linux Shell
-**Others**: Integration testing ·  Unit testing ·  Agile Methodologies ·  Machine Learning Fundamentals
+**Backend/Distributed Systems**:Node.js · Express · MongoDB · MySQL · RESTful API · WebSocket · Redi · RabbitMQ · Microservices Architecture · Distributed System Design
+**DevOps & Tools**: Git · Docker · AWS, CI/CD · Agile · Jira · Linux Shell
+**Others**: Integration testing · Unit testing · Agile Methodologies · Machine Learning Fundamentals
 
 ## Contacts: 
 - Gmail : janessatech.web3@gmail.com
