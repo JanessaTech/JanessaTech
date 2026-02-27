@@ -31,6 +31,7 @@ For more about **JanessaTech**, check the [English resume](https://drive.google.
 **Testing &Others**: Integration testing ·  Unit testing · Agile · Jira
 
 ## Contacts: 
+- Tel: +86 15319401521
 - Gmail : janessatech.web3@gmail.com
 - Team id: lvlajzhao1983@gmail.com
 - Linkedin: https://www.linkedin.com/in/janessatech/
