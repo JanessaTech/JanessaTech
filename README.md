@@ -8,8 +8,8 @@ For more about **JanessaTech**, check the [English resume](https://drive.google.
 
 ## What she is working on
 **Uniswap V3 DEX (Core Project):** Independently integrated Swap, Liquidity Management, and Fee Collection. Designed a backend data middleware layer using The Graph polling + WebSocket push to solve frontend real-time data bottlenecks. Deployed and running stably on testnet.
-- **Demo:** https://app.bestdex-by-janessatech.com/
 - **Youtube**： https://www.youtube.com/watch?v=gzZp0TNLECo
+- **Demo:** https://app.bestdex-by-janessatech.com/
 - **Github:** https://github.com/JanessaTech/BestDex
 
 **NFT Marketplace:** Full-stack development covering NFT display, listing, purchase, and on-chain transfer (~30k lines of code). Deep understanding of ERC721/1155 standards and trading logic.
