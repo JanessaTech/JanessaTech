@@ -7,7 +7,7 @@ Hi, entrepreneurs,
 For more about **JanessaTech**, check the [English resume](https://drive.google.com/file/d/1dFq6dFr6YqcHcsqbrfzyit83JlXvFcZs/view?usp=drive_link), [中文简历](https://drive.google.com/file/d/1oQXmEhcTuaM0p2Pv5nw2yfDZfUttiMj9/view?usp=drive_link)
 
 ## What she is working on
-**Uniswap V3 DEX (Core Project):** Independently integrated Swap, Liquidity Management, and Fee Collection. Designed a backend data middleware layer using The Graph polling + WebSocket push to solve frontend real-time data bottlenecks. Deployed and running stably on testnet.
+**Uniswap V3 DEX (Core Project):** Independently integrated Swap, Liquidity Management, and Fee Collection. Designed a backend data middleware layer using **The Graph polling + WebSocket push** to solve frontend real-time data bottlenecks. Deployed and running stably on testnet.
 - **Youtube**： https://www.youtube.com/watch?v=gzZp0TNLECo
 - **Demo:** https://app.bestdex-by-janessatech.com/
 - **Github:** https://github.com/JanessaTech/BestDex
